@@ -7,6 +7,9 @@ A curated list of awesome OpenAI's Whisper
 * [Whisper Paper](https://cdn.openai.com/papers/whisper.pdf)
 * [Whisper Code](https://github.com/openai/whisper)
 
+## API Ready
+* [penai/whisper – Run with an API on Replicate](https://replicate.com/openai/whisper)
+
 ## Repositories
 * [whisper.cpp - Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
 * [stable-ts - Stabilizing Timestamps for Whisper](https://github.com/jianfch/stable-ts)
