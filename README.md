@@ -7,8 +7,9 @@ A curated list of awesome OpenAI's Whisper
 * [Whisper Paper](https://cdn.openai.com/papers/whisper.pdf)
 * [Whisper Code](https://github.com/openai/whisper)
 
-## API Ready
+## API Ready / Playgroud / Demo
 * [openai/whisper – Run with an API on Replicate](https://replicate.com/openai/whisper)
+* [Whisper - a Hugging Face Space by openai](https://huggingface.co/spaces/openai/whisper)
 
 ## Repositories
 * [whisper.cpp - Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
