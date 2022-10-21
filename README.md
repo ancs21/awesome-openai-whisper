@@ -18,6 +18,7 @@ A curated list of awesome OpenAI's Whisper
 * [whispering - Streaming transcriber with whisper](https://github.com/shirayu/whispering)
 * [whisper-youtube - 🔉 Youtube Videos Transcription with OpenAI's Whisper](https://github.com/ArthurFDLR/whisper-youtube)
 * [Speaker Identification - Pyannote plays and Whisper rhymes](https://github.com/Majdoddin/nlp)
+* [Automatic YouTube subtitle generation](https://github.com/m1guelpf/yt-whisper)
 
 ## Videos
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
