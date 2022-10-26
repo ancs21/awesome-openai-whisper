@@ -24,6 +24,7 @@ A curated list of awesome OpenAI's Whisper
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
 * [Complete Tutorial Video for OpenAI's Whisper Model for Windows Users](https://www.youtube.com/watch?v=msj3wuYf3d8)
 * [Open AI’s Whisper is Amazing!](https://www.youtube.com/watch?v=OCBZtgQGt1I)
+* [How to Use OpenAI Whisper to Fix YouTube Search](https://www.youtube.com/watch?v=vpU_6x3jowg)
 
 ## Tutorials
 * [Convert Podcasts to Text With OpenAI’s Whisper API Using Python](https://betterprogramming.pub/openais-whisper-tutorial-42140dd696ee)
