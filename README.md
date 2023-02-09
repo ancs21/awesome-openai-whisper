@@ -34,6 +34,7 @@ A curated list of awesome OpenAI's Whisper
 * [Speech-to-Text with OpenAI’s Whisper](https://towardsdatascience.com/speech-to-text-with-openais-whisper-53d5cea9005e)
 
 ## Articles
+* [Whispers of A.I.’s Modular Future](https://www.newyorker.com/tech/annals-of-technology/whispers-of-ais-modular-future)
 * [OpenAI open-sources Whisper, a multilingual speech recognition system](https://techcrunch.com/2022/09/21/openai-open-sources-whisper-a-multilingual-speech-recognition-system/)
 * [OpenAI Releases 1.6 Billion Parameter Multilingual Speech Recognition AI Whisper](https://www.infoq.com/news/2022/10/openai-whisper-speech/)
 * [OpenAI Releases Whisper: A New Open-Source Machine Learning Model For Multi-Lingual Automatic Speech Recognition](https://www.marktechpost.com/2022/09/27/openai-releases-whisper-a-new-open-source-machine-learning-model-for-multi-lingual-automatic-speech-recognition/)
