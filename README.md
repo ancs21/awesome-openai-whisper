@@ -12,7 +12,7 @@ A curated list of awesome OpenAI's Whisper
 * [Whisper - a Hugging Face Space by openai](https://huggingface.co/spaces/openai/whisper)
 
 ## Repositories
-* [Whisper as a Service (GUI and API for OpenAI Whisper)] - https://github.com/schibsted/WAAS
+* [Whisper as a Service (GUI and API for OpenAI Whisper)](https://github.com/schibsted/WAAS)
 * [WhisperX: Automatic Speech Recognition with Accurate Word-level Timestamps.](https://github.com/m-bain/whisperX)
 * [whisper.cpp - Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
 * [stable-ts - Stabilizing Timestamps for Whisper](https://github.com/jianfch/stable-ts)
