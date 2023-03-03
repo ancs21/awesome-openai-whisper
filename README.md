@@ -6,6 +6,7 @@ A curated list of awesome OpenAI's Whisper
 * [Introducing Whisper](https://openai.com/blog/whisper/)
 * [Whisper Paper](https://cdn.openai.com/papers/whisper.pdf)
 * [Whisper Code](https://github.com/openai/whisper)
+* [Introducing ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
 
 ## API Ready / Playgroud / Demo
 * [openai/whisper – Run with an API on Replicate](https://replicate.com/openai/whisper)
