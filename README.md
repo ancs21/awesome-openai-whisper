@@ -9,6 +9,8 @@ A curated list of awesome OpenAI's Whisper
 * [Introducing ChatGPT and Whisper APIs](https://openai.com/blog/introducing-chatgpt-and-whisper-apis)
 
 ## API Ready / Playgroud / Demo
+* [WHISPER+](https://www.oneai.com/speech-to-text)
+* [Fine-Tuned Whisper API](https://www.assemblyai.com/)
 * [openai/whisper – Run with an API on Replicate](https://replicate.com/openai/whisper)
 * [Whisper - a Hugging Face Space by openai](https://huggingface.co/spaces/openai/whisper)
 
