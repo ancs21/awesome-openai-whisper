@@ -14,18 +14,31 @@ A curated list of awesome OpenAI's Whisper
 * [openai/whisper – Run with an API on Replicate](https://replicate.com/openai/whisper)
 * [Whisper - a Hugging Face Space by openai](https://huggingface.co/spaces/openai/whisper)
 
-## Repositories
+## Model Variants
+
+* [whisper-timestamped - Whisper  with word-level timestamps and confidence ](https://github.com/linto-ai/whisper-timestamped)
+* [whisper.cpp - Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
+  * [pywhispercpp -  Python bindings for whisper.cpp ](https://github.com/abdeladim-s/pywhispercpp))
+* [Faster Whisper - reimplementation using CTranslate2 up to 4 times faster](https://github.com/guillaumekln/faster-whisper)
+* [Whisper JAX - optimised JAX code, largely built on the hugs Hugging Face Transformers Whisper implementation, over 70x faster](https://github.com/sanchit-gandhi/whisper-jax/)
+* [Whisper models on Hugging Face](https://huggingface.co/models?other=whisper) 
+
+## Applications
 * [React hook for OpenAI Whisper](https://github.com/chengsokdara/use-whisper)
 * [🎞️ Subtitles generation tool (Web-UI + CLI + Python package)](https://github.com/abdeladim-s/subsai)
 * [Whisper as a Service (GUI and API for OpenAI Whisper)](https://github.com/schibsted/WAAS)
 * [WhisperX: Automatic Speech Recognition with Accurate Word-level Timestamps.](https://github.com/m-bain/whisperX)
-* [whisper.cpp - Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
 * [stable-ts - Stabilizing Timestamps for Whisper](https://github.com/jianfch/stable-ts)
 * [buzz - Buzz transcribes audio from your computer's microphones to text using OpenAI's Whisper](https://github.com/chidiwilliams/buzz)
 * [whispering - Streaming transcriber with whisper](https://github.com/shirayu/whispering)
 * [whisper-youtube - 🔉 Youtube Videos Transcription with OpenAI's Whisper](https://github.com/ArthurFDLR/whisper-youtube)
 * [Speaker Identification - Pyannote plays and Whisper rhymes](https://github.com/Majdoddin/nlp)
 * [Automatic YouTube subtitle generation](https://github.com/m1guelpf/yt-whisper)
+* [Whisper Webui - WebUI for Whisper that can transcribe and translate audio](https://gitlab.com/aadnk/whisper-webui/)
+* [AutoCut - generate video subtitles and edit the video by selecting subtitle clips](https://github.com/mli/autocut)
+  * [AutoCut Client](https://github.com/zcf0508/autocut-client)
+* [Whisper Playground - Build real time speech2text web apps using OpenAI's Whisper](https://github.com/saharmor/whisper-playground)
+* [Subtitle Edit - a subtitle editor supporting audio to text (speech recognition) via Whisper or Vosk/Kaldi](https://www.nikse.dk/subtitleedit)
 
 ## Videos
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
