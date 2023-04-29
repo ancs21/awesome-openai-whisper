@@ -18,9 +18,15 @@ A curated list of awesome OpenAI's Whisper
 
 * [whisper-timestamped - Whisper  with word-level timestamps and confidence ](https://github.com/linto-ai/whisper-timestamped)
 * [whisper.cpp - Port of OpenAI's Whisper model in C/C++](https://github.com/ggerganov/whisper.cpp)
-  * [pywhispercpp -  Python bindings for whisper.cpp ](https://github.com/abdeladim-s/pywhispercpp))
+  * [pywhispercpp -  Python bindings for whisper.cpp ](https://github.com/abdeladim-s/pywhispercpp)
 * [Faster Whisper - reimplementation using CTranslate2 up to 4 times faster](https://github.com/guillaumekln/faster-whisper)
 * [Whisper JAX - optimised JAX code, largely built on the hugs Hugging Face Transformers Whisper implementation, over 70x faster](https://github.com/sanchit-gandhi/whisper-jax/)
+* [whisper.tflite](https://github.com/usefulsensors/openai-whisper)
+* [OpenAI Whisper - CPU](https://github.com/MiscellaneousStuff/openai-whisper-cpu)
+* [whisper_onnx](https://github.com/Fhrozen/whisper_onnx)
+* [whisper-export - openvino version of openai/whisper](https://github.com/axinc-ai/whisper-export)
+  * [onnx-export](https://github.com/axinc-ai/whisper-export/tree/onnx-export)
+* [Whisper OpenVINO](https://github.com/zhuzilin/whisper-openvino)
 * [Whisper models on Hugging Face](https://huggingface.co/models?other=whisper) 
 
 ## Applications
@@ -39,6 +45,11 @@ A curated list of awesome OpenAI's Whisper
   * [AutoCut Client](https://github.com/zcf0508/autocut-client)
 * [Whisper Playground - Build real time speech2text web apps using OpenAI's Whisper](https://github.com/saharmor/whisper-playground)
 * [Subtitle Edit - a subtitle editor supporting audio to text (speech recognition) via Whisper or Vosk/Kaldi](https://www.nikse.dk/subtitleedit)
+* [WEB WHISPER - A light user interface for OpenAI's Whisper right into your browser!](https://codeberg.org/pluja/web-whisper)
+* [Whisper Mic - Project that allows one to use a microphone with OpenAI whisper](https://github.com/mallorbc/whisper_mic)
+* [Android Whisper ASR App](https://play.google.com/store/apps/details?id=com.whisper.android.tflitecpp)
+  * [Source](https://github.com/usefulsensors/openai-whisper/tree/main/android_app)
+* [Apple Whisper ASR App](https://apps.apple.com/in/app/whisper-asr/id6444556326)
 
 ## Videos
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
