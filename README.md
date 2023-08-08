@@ -54,6 +54,7 @@ A curated list of awesome OpenAI's Whisper
 * [Android Whisper ASR App](https://play.google.com/store/apps/details?id=com.whisper.android.tflitecpp)
   * [Source](https://github.com/usefulsensors/openai-whisper/tree/main/android_app)
 * [Apple Whisper ASR App](https://apps.apple.com/in/app/whisper-asr/id6444556326)
+* [Meeper 📝 - Transcriptions, summary using Whisper+ChatGPT for meetings and any browser tab](https://github.com/pas1ko/meeper)
 
 ## Videos
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
