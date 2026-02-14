@@ -55,7 +55,7 @@ A curated list of awesome OpenAI's Whisper
   * [Source](https://github.com/usefulsensors/openai-whisper/tree/main/android_app)
 * [Apple Whisper ASR App](https://apps.apple.com/in/app/whisper-asr/id6444556326)
 * [💬 ASR FastAPI](https://github.com/Wordcab/wordcab-transcribe)
-* [whisper-ctranslate2: is a 4x faster and low-memory usage drop-in replacement that supports word-level timestamps and VAD filtering](https://github.com/Softcatala/whisper-ctranslate2)
+* [whisper-ctranslate2: is a 4x faster and low-memory usage drop-in cli replacement that supports word-level timestamps and VAD filtering](https://github.com/Softcatala/whisper-ctranslate2)
 
 ## Videos
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
