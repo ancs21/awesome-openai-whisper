@@ -55,7 +55,7 @@ A curated list of awesome OpenAI's Whisper
   * [Source](https://github.com/usefulsensors/openai-whisper/tree/main/android_app)
 * [Apple Whisper ASR App](https://apps.apple.com/in/app/whisper-asr/id6444556326)
 * [💬 ASR FastAPI](https://github.com/Wordcab/wordcab-transcribe)
-* [JellySubtitles - Jellyfin plugin for local AI-powered subtitle generation using whisper.cpp](https://github.com/GeiserX/jelly-subtitles)
+* [WhisperSubs - Jellyfin plugin for local AI-powered subtitle generation using whisper.cpp](https://github.com/GeiserX/whisper-subs)
 
 ## Videos
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
