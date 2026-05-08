@@ -55,6 +55,7 @@ A curated list of awesome OpenAI's Whisper
   * [Source](https://github.com/usefulsensors/openai-whisper/tree/main/android_app)
 * [Apple Whisper ASR App](https://apps.apple.com/in/app/whisper-asr/id6444556326)
 * [💬 ASR FastAPI](https://github.com/Wordcab/wordcab-transcribe)
+* [StarWhisper - Windows desktop dictation app for OpenAI Whisper, hotkey-driven, runs offline via whisper.cpp](https://starwhisper.ai)
 
 ## Videos
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
