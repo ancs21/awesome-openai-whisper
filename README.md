@@ -49,6 +49,7 @@ A curated list of awesome OpenAI's Whisper
   * [AutoCut Client](https://github.com/zcf0508/autocut-client)
 * [Whisper Playground - Build real time speech2text web apps using OpenAI's Whisper](https://github.com/saharmor/whisper-playground)
 * [Subtitle Edit - a subtitle editor supporting audio to text (speech recognition) via Whisper or Vosk/Kaldi](https://www.nikse.dk/subtitleedit)
+* [WhisperSubTranslate - Free, open source desktop app that turns any video into translated subtitles (whisper.cpp + local LLM or DeepL/OpenAI/Gemini)](https://github.com/Blue-B/WhisperSubTranslate)
 * [WEB WHISPER - A light user interface for OpenAI's Whisper right into your browser!](https://codeberg.org/pluja/web-whisper)
 * [Whisper Mic - Project that allows one to use a microphone with OpenAI whisper](https://github.com/mallorbc/whisper_mic)
 * [Android Whisper ASR App](https://play.google.com/store/apps/details?id=com.whisper.android.tflitecpp)
