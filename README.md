@@ -18,6 +18,7 @@ A curated list of awesome OpenAI's Whisper
   * [Source](https://github.com/saharmor/whisper-playground)
 * [Web Whisper - 🎶 Convert any audio to text 📝](https://whisper.r3d.red)
   * [Source](https://codeberg.org/pluja/web-whisper)
+* [Whipscribe - Hosted Whisper API with URL ingestion, diarization, word timestamps, and multiple output formats; MCP server included](https://whipscribe.com)
 
 ## Model Variants
 * [whisper-timestamped - Whisper  with word-level timestamps and confidence ](https://github.com/linto-ai/whisper-timestamped)
