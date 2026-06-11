@@ -58,6 +58,8 @@ A curated list of awesome OpenAI's Whisper
 * [💬 ASR FastAPI](https://github.com/Wordcab/wordcab-transcribe)
 * [WhisperSubs - Jellyfin plugin for local AI-powered subtitle generation using whisper.cpp](https://github.com/GeiserX/whisper-subs)
 
+* [WhisperPress - Offline push-to-talk voice typing & voice notes for Windows, powered by whisper.cpp](https://github.com/b84330808/whisperpress)
+
 ## Videos
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
 * [Complete Tutorial Video for OpenAI's Whisper Model for Windows Users](https://www.youtube.com/watch?v=msj3wuYf3d8)
