@@ -18,6 +18,7 @@ A curated list of awesome OpenAI's Whisper
   * [Source](https://github.com/saharmor/whisper-playground)
 * [Web Whisper - 🎶 Convert any audio to text 📝](https://whisper.r3d.red)
   * [Source](https://codeberg.org/pluja/web-whisper)
+* [FreeAudioToText](https://freeaudiototext.com/speech-to-text-api) - Speech-to-text API compatible with the OpenAI SDK featuring built-in speaker diarization.
 
 ## Model Variants
 * [whisper-timestamped - Whisper  with word-level timestamps and confidence ](https://github.com/linto-ai/whisper-timestamped)
