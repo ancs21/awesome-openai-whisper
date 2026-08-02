@@ -40,6 +40,7 @@ A curated list of awesome OpenAI's Whisper
 * [WhisperX: Automatic Speech Recognition with Accurate Word-level Timestamps.](https://github.com/m-bain/whisperX)
 * [stable-ts - Stabilizing Timestamps for Whisper](https://github.com/jianfch/stable-ts)
 * [buzz - Buzz transcribes audio from your computer's microphones to text using OpenAI's Whisper](https://github.com/chidiwilliams/buzz)
+* [AI Dictation - Open-source voice-to-text app for macOS, Windows, iOS, and Android, with Whisper-backed transcription and optional cleanup.](https://github.com/writingmate/aidictation)
 * [whispering - Streaming transcriber with whisper](https://github.com/shirayu/whispering)
 * [whisper-youtube - 🔉 Youtube Videos Transcription with OpenAI's Whisper](https://github.com/ArthurFDLR/whisper-youtube)
 * [Speaker Identification - Pyannote plays and Whisper rhymes](https://github.com/Majdoddin/nlp)
