@@ -57,6 +57,7 @@ A curated list of awesome OpenAI's Whisper
 * [Apple Whisper ASR App](https://apps.apple.com/in/app/whisper-asr/id6444556326)
 * [💬 ASR FastAPI](https://github.com/Wordcab/wordcab-transcribe)
 * [WhisperSubs - Jellyfin plugin for local AI-powered subtitle generation using whisper.cpp](https://github.com/GeiserX/whisper-subs)
+* [SubFlow - 100% local subtitle pipeline CLI + skill: Whisper transcription, batch translation, Netflix-style QC, ASR hallucination detection (`langcheck`). PT-BR presets for documentary translation](https://github.com/IcaroPv01/subflow)
 
 ## Videos
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
