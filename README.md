@@ -34,6 +34,8 @@ A curated list of awesome OpenAI's Whisper
 * [Whisper models on Hugging Face](https://huggingface.co/models?other=whisper) 
 
 ## Applications
+* [OpenVoiceFlow - push-to-talk macOS dictation with on-device WhisperKit transcription](https://openvoiceflow.com/)
+  * [Source](https://github.com/shimoverse/openvoiceflow)
 * [React hook for OpenAI Whisper](https://github.com/chengsokdara/use-whisper)
 * [🎞️ Subtitles generation tool (Web-UI + CLI + Python package)](https://github.com/abdeladim-s/subsai)
 * [Whisper as a Service (GUI and API for OpenAI Whisper)](https://github.com/schibsted/WAAS)
