@@ -17,6 +17,7 @@ A curated list of awesome OpenAI's Whisper
 * [Whisper Playground](https://whisperui.monsterapi.ai/)
   * [Source](https://github.com/saharmor/whisper-playground)
 * [Web Whisper - 🎶 Convert any audio to text 📝](https://whisper.r3d.red)
+* [InstaScript](https://instascript.app) - Browser-based transcription. Whisper runs in the visitor's browser, and it also reads the caption track a YouTube video already has.
   * [Source](https://codeberg.org/pluja/web-whisper)
 
 * [InstaScript](https://instascript.app)
