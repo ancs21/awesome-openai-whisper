@@ -20,7 +20,6 @@ A curated list of awesome OpenAI's Whisper
 * [InstaScript](https://instascript.app) - Browser-based transcription. Whisper runs in the visitor's browser, and it also reads the caption track a YouTube video already has.
   * [Source](https://codeberg.org/pluja/web-whisper)
 
-* [InstaScript](https://instascript.app)
   * [Source](https://github.com/nickwebt800/instascript)
 ## Model Variants
 * [whisper-timestamped - Whisper  with word-level timestamps and confidence ](https://github.com/linto-ai/whisper-timestamped)
