@@ -18,6 +18,8 @@ A curated list of awesome OpenAI's Whisper
   * [Source](https://github.com/saharmor/whisper-playground)
 * [Web Whisper - 🎶 Convert any audio to text 📝](https://whisper.r3d.red)
   * [Source](https://codeberg.org/pluja/web-whisper)
+* [InstaScript](https://instascript.app) - Browser-based transcription. Whisper runs in the visitor's browser, and it also reads the caption track a YouTube video already has.
+  * [Source](https://github.com/nickwebt800/instascript)
 
 ## Model Variants
 * [whisper-timestamped - Whisper  with word-level timestamps and confidence ](https://github.com/linto-ai/whisper-timestamped)
