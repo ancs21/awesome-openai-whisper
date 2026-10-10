@@ -17,6 +17,7 @@ A curated list of awesome OpenAI's Whisper
 * [Whisper Playground](https://whisperui.monsterapi.ai/)
   * [Source](https://github.com/saharmor/whisper-playground)
 * [Web Whisper - 🎶 Convert any audio to text 📝](https://whisper.r3d.red)
+* [Uttera - EU-hosted, OpenAI-compatible speech (STT + TTS) API](https://uttera.ai)
   * [Source](https://codeberg.org/pluja/web-whisper)
 
 ## Model Variants
@@ -57,6 +58,8 @@ A curated list of awesome OpenAI's Whisper
 * [Apple Whisper ASR App](https://apps.apple.com/in/app/whisper-asr/id6444556326)
 * [💬 ASR FastAPI](https://github.com/Wordcab/wordcab-transcribe)
 * [WhisperSubs - Jellyfin plugin for local AI-powered subtitle generation using whisper.cpp](https://github.com/GeiserX/whisper-subs)
+
+* [Uttera STT (vLLM) - self-hosted, OpenAI-compatible Whisper server with continuous batching for high-throughput GPU transcription](https://github.com/uttera/uttera-stt-vllm)
 
 ## Videos
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
