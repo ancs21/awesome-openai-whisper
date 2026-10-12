@@ -59,6 +59,7 @@ A curated list of awesome OpenAI's Whisper
 * [Apple Whisper ASR App](https://apps.apple.com/in/app/whisper-asr/id6444556326)
 * [💬 ASR FastAPI](https://github.com/Wordcab/wordcab-transcribe)
 * [WhisperSubs - Jellyfin plugin for local AI-powered subtitle generation using whisper.cpp](https://github.com/GeiserX/whisper-subs)
+* [Whisper Notes - Offline audio transcription for iOS and macOS with on-device speaker diarization](https://whispernotes.app)
 
 * [Uttera STT (vLLM) - self-hosted, OpenAI-compatible Whisper server with continuous batching for high-throughput GPU transcription](https://github.com/uttera/uttera-stt-vllm)
 
