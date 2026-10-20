@@ -61,6 +61,7 @@ A curated list of awesome OpenAI's Whisper
 * [WhisperSubs - Jellyfin plugin for local AI-powered subtitle generation using whisper.cpp](https://github.com/GeiserX/whisper-subs)
 
 * [Uttera STT (vLLM) - self-hosted, OpenAI-compatible Whisper server with continuous batching for high-throughput GPU transcription](https://github.com/uttera/uttera-stt-vllm)
+* [Yap Voice Typing - free browser extension (Chrome, Firefox) that types your speech into any text box, with Whisper running inside the browser and no account](https://yapapp.cc/voice-typing-extension)
 
 ## Videos
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
