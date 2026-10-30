@@ -61,6 +61,7 @@ A curated list of awesome OpenAI's Whisper
 * [WhisperSubs - Jellyfin plugin for local AI-powered subtitle generation using whisper.cpp](https://github.com/GeiserX/whisper-subs)
 
 * [Uttera STT (vLLM) - self-hosted, OpenAI-compatible Whisper server with continuous batching for high-throughput GPU transcription](https://github.com/uttera/uttera-stt-vllm)
+* [Karaoke Captions - Browser-based word-by-word video captions using on-device Whisper transcription, with MP4, SRT and VTT export.](https://karaokecaptions.com/)
 
 ## Videos
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
