@@ -61,6 +61,7 @@ A curated list of awesome OpenAI's Whisper
 * [WhisperSubs - Jellyfin plugin for local AI-powered subtitle generation using whisper.cpp](https://github.com/GeiserX/whisper-subs)
 
 * [Uttera STT (vLLM) - self-hosted, OpenAI-compatible Whisper server with continuous batching for high-throughput GPU transcription](https://github.com/uttera/uttera-stt-vllm)
+* [voiceio - Offline voice dictation for Linux that types into the focused app on Wayland and X11, using Whisper (faster-whisper) or Parakeet](https://github.com/Hugo0/voiceio)
 
 ## Videos
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
