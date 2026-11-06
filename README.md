@@ -43,6 +43,7 @@ A curated list of awesome OpenAI's Whisper
 * [stable-ts - Stabilizing Timestamps for Whisper](https://github.com/jianfch/stable-ts)
 * [buzz - Buzz transcribes audio from your computer's microphones to text using OpenAI's Whisper](https://github.com/chidiwilliams/buzz)
 * [whispering - Streaming transcriber with whisper](https://github.com/shirayu/whispering)
+* [OneMira AI - Standalone AI voice recorder (C1) and local transcription/speaker diarization system with MCP server](https://onemira.com/products/c1)
 * [whisper-youtube - 🔉 Youtube Videos Transcription with OpenAI's Whisper](https://github.com/ArthurFDLR/whisper-youtube)
 * [Speaker Identification - Pyannote plays and Whisper rhymes](https://github.com/Majdoddin/nlp)
 * [Automatic YouTube subtitle generation](https://github.com/m1guelpf/yt-whisper)
