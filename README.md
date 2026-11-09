@@ -63,6 +63,7 @@ A curated list of awesome OpenAI's Whisper
 * [Uttera STT (vLLM) - self-hosted, OpenAI-compatible Whisper server with continuous batching for high-throughput GPU transcription](https://github.com/uttera/uttera-stt-vllm)
 * [voiceio - Offline voice dictation for Linux that types into the focused app on Wayland and X11, using Whisper (faster-whisper) or Parakeet](https://github.com/Hugo0/voiceio)
 * [YazSes - Offline hold-to-talk dictation for Linux (X11 and Wayland), macOS and Windows, built on faster-whisper; also transcribes recordings and meetings with speaker labels](https://github.com/MSKazemi/yazses)
+* [ClapClip AI Transcribe - Offline transcription app for Windows 10/11 running Whisper models locally via whisper.cpp, with batch folder processing and TXT, SRT, VTT and DOCX export](https://www.clapclip.net/transcript)
 
 ## Videos
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
