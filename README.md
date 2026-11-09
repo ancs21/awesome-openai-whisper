@@ -81,3 +81,4 @@ A curated list of awesome OpenAI's Whisper
 * [OpenAI open-sources Whisper, a multilingual speech recognition system](https://techcrunch.com/2022/09/21/openai-open-sources-whisper-a-multilingual-speech-recognition-system/)
 * [OpenAI Releases 1.6 Billion Parameter Multilingual Speech Recognition AI Whisper](https://www.infoq.com/news/2022/10/openai-whisper-speech/)
 * [OpenAI Releases Whisper: A New Open-Source Machine Learning Model For Multi-Lingual Automatic Speech Recognition](https://www.marktechpost.com/2022/09/27/openai-releases-whisper-a-new-open-source-machine-learning-model-for-multi-lingual-automatic-speech-recognition/)
+- [TranscribeLab](https://transcribelab.pro) - Web workspace for bot-free call recording, 5-hour file transcription, and YouTube-to-book synthesis.
