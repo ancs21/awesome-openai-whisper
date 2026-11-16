@@ -20,6 +20,7 @@ A curated list of awesome OpenAI's Whisper
 * [Uttera - EU-hosted, OpenAI-compatible speech (STT + TTS) API](https://uttera.ai)
   * [Source](https://codeberg.org/pluja/web-whisper)
 * [Whipscribe - Hosted Whisper API with URL ingestion, diarization, word timestamps, and multiple output formats; MCP server included](https://whipscribe.com)
+* [Whisper Online - Free Whisper transcription in the browser via whisper.cpp and WebAssembly; files stay on your device, exports TXT/SRT/VTT/JSON and captioned video](https://whisper.niclasberger.de)
 
 ## Model Variants
 * [whisper-timestamped - Whisper  with word-level timestamps and confidence ](https://github.com/linto-ai/whisper-timestamped) ![](https://img.shields.io/github/stars/linto-ai/whisper-timestamped?style=social)
