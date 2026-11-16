@@ -75,6 +75,7 @@ A curated list of awesome OpenAI's Whisper
 * [Create your own speech to text application with Whisper from OpenAI and Flask](https://blog.paperspace.com/whisper-openai-flask-application-deployment/)
 * [How to Run OpenAI’s Whisper Speech Recognition Model](https://www.assemblyai.com/blog/how-to-run-openais-whisper-speech-recognition-model/)
 * [Speech-to-Text with OpenAI’s Whisper](https://towardsdatascience.com/speech-to-text-with-openais-whisper-53d5cea9005e)
+* [How to Transcribe Audio with WhisperX on a Cloud GPU (with Speaker Labels)](https://cloudgpu.app/guides/how-to-transcribe-audio-with-whisperx-on-a-cloud-gpu)
 
 ## Articles
 * [Whispers of A.I.’s Modular Future](https://www.newyorker.com/tech/annals-of-technology/whispers-of-ais-modular-future)
