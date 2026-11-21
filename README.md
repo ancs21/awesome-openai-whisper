@@ -57,6 +57,7 @@ A curated list of awesome OpenAI's Whisper
 * [Android Whisper ASR App](https://play.google.com/store/apps/details?id=com.whisper.android.tflitecpp)
   * [Source](https://github.com/usefulsensors/openai-whisper/tree/main/android_app) ![](https://img.shields.io/github/stars/usefulsensors/openai-whisper?style=social)
 * [Apple Whisper ASR App](https://apps.apple.com/in/app/whisper-asr/id6444556326)
+* [Inkear: Offline Speech to Text - On-device Android speech-to-text app running Whisper locally across 99 languages with no accounts or cloud uploads (paid Play Store app)](https://play.google.com/store/apps/details?id=com.gr8.app.inkear)
 * [💬 ASR FastAPI](https://github.com/Wordcab/wordcab-transcribe) ![](https://img.shields.io/github/stars/Wordcab/wordcab-transcribe?style=social)
 * [WhisperSubs - Jellyfin plugin for local AI-powered subtitle generation using whisper.cpp](https://github.com/GeiserX/whisper-subs) ![](https://img.shields.io/github/stars/GeiserX/whisper-subs?style=social)
 
@@ -75,6 +76,7 @@ A curated list of awesome OpenAI's Whisper
 * [Create your own speech to text application with Whisper from OpenAI and Flask](https://blog.paperspace.com/whisper-openai-flask-application-deployment/)
 * [How to Run OpenAI’s Whisper Speech Recognition Model](https://www.assemblyai.com/blog/how-to-run-openais-whisper-speech-recognition-model/)
 * [Speech-to-Text with OpenAI’s Whisper](https://towardsdatascience.com/speech-to-text-with-openais-whisper-53d5cea9005e)
+* [Offline Speech-to-Text on Android Guide & RTF Benchmark](https://github.com/simple-free-apps/offline-speech-to-text-android-guide) ![](https://img.shields.io/github/stars/simple-free-apps/offline-speech-to-text-android-guide?style=social)
 
 ## Articles
 * [Whispers of A.I.’s Modular Future](https://www.newyorker.com/tech/annals-of-technology/whispers-of-ais-modular-future)
