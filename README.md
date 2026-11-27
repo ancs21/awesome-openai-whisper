@@ -64,6 +64,8 @@ A curated list of awesome OpenAI's Whisper
 * [voiceio - Offline voice dictation for Linux that types into the focused app on Wayland and X11, using Whisper (faster-whisper) or Parakeet](https://github.com/Hugo0/voiceio) ![](https://img.shields.io/github/stars/Hugo0/voiceio?style=social)
 * [YazSes - Offline hold-to-talk dictation for Linux (X11 and Wayland), macOS and Windows, built on faster-whisper; also transcribes recordings and meetings with speaker labels](https://github.com/MSKazemi/yazses) ![](https://img.shields.io/github/stars/MSKazemi/yazses?style=social)
 
+* [local-sub-skill - 100% local Faster-Whisper + Ollama Hy-MT2-1.8B video-to-Chinese & styled bilingual subtitle (`.zh.srt` / `.bilingual.srt` / `.bilingual.ass` / `.bilingual.md`) CLI, Web Studio, and Claude/Codex skill](https://github.com/Jettlin927/local-sub-skill) ![](https://img.shields.io/github/stars/Jettlin927/local-sub-skill?style=social)
+
 ## Videos
 * [OpenAI Whisper - MultiLingual AI Speech Recognition Live App Tutorial](https://www.youtube.com/watch?v=ywIyc8l1K1Q)
 * [Complete Tutorial Video for OpenAI's Whisper Model for Windows Users](https://www.youtube.com/watch?v=msj3wuYf3d8)
